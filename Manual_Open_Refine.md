@@ -67,7 +67,13 @@ Par default, Open Refine intègre Wikidata comme source de données externe mais
 ou des Thésaurus.  
 Les sources de réconciliation sont disponibles à cette adresse : https://reconciliation-api.github.io/testbench/ . 
 Open Refine détecte automatiquement ce que vous souhaitez réconcilier. 
-Dans le cas de adressbuch, un champ « street» est déjà présélectionné. 
+Dans le cas de adressbuch, un champ « street» est déjà présélectionné.  
+
+Ensuite vous n’avez plus qu’à lancer la réconciliation qui prend plus ou moins de temps selon la quantité de donner que vous souhaitez réconcilier. Une fois qu’Open Refine a fini son processus automatique, vous sélectionnez à nouveau > **Réconciliation** > **Facette** > **Type d’action de jugement**.  Une fenêtre s’ouvrira dans **Facette** qui vous permet de voir ce qui a été fait au niveau de la réconciliation.  
+Vous avez 3 catégories d’affichées : **Matched** pour les données qui ont été réconciliés automatiquement ; **Unconcilied** les données ne sont pas réconciliés, vous devez rechercher la donnée que vous souhaitez ajouter parmi une liste proposée souvent ; **Unknown** Les données sont inconnus souvent dû à une erreur dans la donnée (faute d’orthographe ou un espace en trop) et vous devez rechercher vous-même la donnée pour la réconcilier en cliquant sur > **chercher une correspondance** qui doit apparaître dans la case de donnée qui considère inconnue. 
+
+Si vous souhaitez ajouter des données et qu’ils apparaissent dans votre tableau vous allez dans la colonne que vous avez réconciliée puis : > **éditer la colonne** > **ajouter des colonnes à partir de valeurs réconciliées**. Une fenêtre s’ouvre et vous propose une liste de propriété ainsi qu’une barre de recherche pour rechercher les propriétés que vous souhaitez.  
+Dans le cas de adressbuch, il fallait les coordonnées géographiques de chaque adresse. Il faut se diriger dans la barre de recherche saisir coordinate location et le sélectionner. Une nouvelle colonne apparait pour les coordonnées géographiques, cliquez sur > **ok** et la colonne apparait à côté de celle réconciliée. 
 
 
 
