@@ -36,6 +36,9 @@ Elles sont enregistrées sous le format JSON. A votre droite vous avez 3 boutons
 formats notamment SQL, Excel, CSV, table HTML ou encore archiver le projet dans le google drive. Enfin, le bouton d´aide et celui des extensions en dessous, 
 son extension par default est le Wikidata.  
 
+<img src='screenshots/1.png'/>
+<img src='sceenshots/2.png'/>
+
 ### Facette
 
 L´outil facette va vous permettre de nettoyer vos données. 
