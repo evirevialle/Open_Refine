@@ -1,7 +1,5 @@
-<head>
-  <meta charset='utf-8'>
-  <link rel='stylesheet' href='style.css'>
-</head>
+ <link href="style.css" rel="stylesheet"></link>
+
 
 # Open Refine  
 
