@@ -1,4 +1,4 @@
- <link href="/../style.css" rel="stylesheet"></link>
+ <link href="Open_Refine/style.css" rel="stylesheet"></link>
 
 
 # Open Refine  
