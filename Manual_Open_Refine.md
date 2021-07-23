@@ -1,3 +1,8 @@
+<head>
+  <meta charset='utf-8'>
+  <link rel='stylesheet' href='style.css'>
+</head>
+
 # Open Refine  
 
 ## _Logiciel libre pour le nettoyage et la mise en forme de données_
@@ -36,8 +41,7 @@ Elles sont enregistrées sous le format JSON. A votre droite vous avez 3 boutons
 formats notamment SQL, Excel, CSV, table HTML ou encore archiver le projet dans le google drive. Enfin, le bouton d´aide et celui des extensions en dessous, 
 son extension par default est le Wikidata.  
 
-<img src='screenshots/1.png'/>
-<img src='sceenshots/2.png'/>
+<img src='screenshots/1.png' /> <img class='2' src='screenshots/2.png' />
 
 ### Facette
 
