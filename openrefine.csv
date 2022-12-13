@@ -1,21 +1,21 @@
-id,surname,first_name,gender,profession_verbatim,name,prof_categories_name,norm,OhdAB_01,name_old_verbatim,name_new,geo_long,geo_lat
-3821,Abert,Unbekannt,M,Bäcker,Handwerk,Handwerk,Bäcker/in,"Rohstoffgewinnung, Produktion und Fertigung",de l' Ecole de Médecine,rue de l' École de Médecine,2.341,48.8509
-776,Abler,Unbekannt,M,Damenschuhmacher,Handwerk,Handwerk,Damenschuhmacher/in,"Rohstoffgewinnung, Produktion und Fertigung",Neuve des Petits Champs,rue des Petits-Champs,2.33635,48.8669
-3823,Abraham-Dubois,Unbekannt,M,Referendar am Rechnungshofe,Beamte,Beamte,Rechnungshofreferendar/in,"Unternehmensorganisation, Buchhaltung, Recht und Verwaltung",Cassette,rue Cassette,2.33085,48.8498
-1744,Bach-Pérès,Unbekannt,M,Rollvorhangfabrik,Handwerk,Handwerk,Jalousienfabrikant/in,"Bau, Architektur, Vermessung und Gebäudetechnik",Du Faubourg Saint denis,rue du Faubourg-Saint-Denis,2.35444,48.8731
-4394,Bacher,Unbekannt,M,Speisewirth,Selbstständig,Selbstständig,Speisewirt/in,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",Du Temple,rue du Temple,2.35657,48.8616
-12,Badens,Unbekannt,F,Unbekannt,Unbekannt,Adel,Unbekannt,Unbekannt,Ferme,Unbekannt,0,0
-1766,Borsendorff,L.,Unbekannt,Uhrmacher,Handwerk,Handwerk,Uhrmacher/in,"Rohstoffgewinnung, Produktion und Fertigung",de Vannes,Unbekannt,0,0
-3575,Bose,Aristides,M,Steindruckerei,Handwerk,Handwerk,Steindrucker/in,"Rohstoffgewinnung, Produktion und Fertigung",de Sèvres,rue Lecourbe,2.29576,48.8405
-898,Christiäns,Unbekannt,F,Korsetten,Handel,Handel,Korsetthändler/in,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",de Port Mahon,rue de Port-Mahon,2.33401,48.8697
-3126,Christmann,J. M.,M,Unbekannt,Unbekannt,Unbekannt,Unbekannt,Unbekannt,de Charonne,rue de Charonne,2.38431,48.8545
-2157,Dager,Unbekannt,M,Geschäftsagent,Handel,Handel,Geschäftsagent/in,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",de l' Arbre Sec,rue de l' Arbre-Sec,2.34215,48.86
-3491,Damm,Unbekannt,M,Möbel,Handel,Handel,Möbelhändler/in (Einzelhandel),"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",Napoléon,Quai aux Fleurs,2.35161,48.8542
-3844,Damm,Unbekannt,M,Möbel,Handel,Handel,Möbelhändler/in (Einzelhandel),"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",Saint André des Arts,rue Saint-André-des-Arts,2.34085,48.8534
-3846,Dartheil,Unbekannt,M,Messerschmied,Handwerk,Handwerk,Messerschmied/in,"Rohstoffgewinnung, Produktion und Fertigung",Zacharie,rue Xavier-Privas,2.34551,48.8528
-949,Eblée,Unbekannt,F,Unbekannt,Unbekannt,Adel,Unbekannt,Unbekannt,Gaillon,rue Gaillon,2.33411,48.8684
-377,Ebling,Unbekannt,M,Eigenthümer,Selbstständig,Selbstständig,Eigentümer/in,"Eigentümer, Besitzer und Mieter",de la Ferme des Mathurins,rue Vignon,2.32612,48.8707
-950,Ebrard,Unbekannt,M,Juwelenfabrikant,Handwerk,Handwerk,Juwelenfabrikant/in - Unternehmer/in,"Sprach-, Literatur-, Geistes-, Gesellschafts- und Wirtschaftswissenschaften, Medien, Kunst, Kultur und Gestaltung",Palais Royal,galerie de Valois,2.33797,48.8641
-3170,Feldmayer,Paul,M,Magazin brennbarer Stoffe,Handel,Handel,Industriemagazinist/in,"Verkehr, Logistik, Schutz und Sicherheit",Popincourt,rue Popincourt,2.37694,48.8578
-4325,Feliker,Ch.,M,Spielwaarenhandel im Großen,Handel,Handel,Großhändler/in,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",Tiquetonne,rue Tiquetonne,2.34966,48.8644
-2168,Fellens,J.,M,Oeconomische Buchhandlung,Handel,Handel,Buchhändler/in,"Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",Du Roule,rue du Roule,2.34386,48.8609
+id,surname,first_name,gender,profession_verbatim,name,prof_categories_name,norm,name_new
+3821,Abert,,M,Bäcker,Handwerk,Handwerk,Bäcker/in,rue de l' École de Médecine
+776,Abler,,M,Damenschuhmacher,Handwerk,Handwerk,Damenschuhmacher/in,rue des Petits-Champs
+3823,Abraham-Dubois,,M,Referendar am Rechnungshofe,Beamte,Beamte,Rechnungshofreferendar/in,rue Cassette
+1744,Bach-Pérès,,M,Rollvorhangfabrik,Handwerk,Handwerk,Jalousienfabrikant/in,rue du Faubourg-Saint-Denis
+4394,Bacher,,M,Speisewirth,Selbstständig,Selbstständig,Speisewirt/in,rue du Temple
+12,Badens,,F,,,Adel,,
+1766,Borsendorff,L.,,Uhrmacher,Handwerk,Handwerk,Uhrmacher/in,
+3575,Bose,Aristides,M,Steindruckerei,Handwerk,Handwerk,Steindrucker/in,rue Lecourbe
+898,Christiäns,,F,Korsetten,Handel,Handel,Korsetthändler/in,rue de Port-Mahon
+3126,Christmann,J. M.,M,,,,,rue de Charonne
+2157,Dager,,M,Geschäftsagent,Handel,Handel,Geschäftsagent/in,rue de l' Arbre-Sec
+3491,Damm,,M,mobel,Handel,Handel,Möbelhändler/in (Einzelhandel),Quai aux Fleurs
+3844,Damm,,M,Möbel,Handel,Handel,Möbelhändler/in (Einzelhandel),rue Saint-André-des-Arts
+3846,Dartheil,,M,Messerschmied,Handwerk,Handwerk,Messerschmied/in,rue Xavier-Privas
+949,Eblée,,F,,,Adel,,rue Gaillon
+377,Ebling,,M,Eigenthümer,Selbstständig,Selbstständig,Eigentümer/in,rue Vignon
+950,Ebrard,,M,Juwelenfabrikant,Handwerk,Handwerk,Juwelenfabrikant/in - Unternehmer/in,galerie de Valois
+3170,Feldmayer,Paul,M,Magazin brennbarer Stoffe,Handel,Handel,Industriemagazinist/in,rue Popincourt
+4325,Feliker,Ch.,M,Spielwaarenhandel im Großen,Handel,Handel,Großhändler/in,rue Tiquetonne
+2168,Fellens,J.,M,Oeconomische Buchhandlung,Handel,Handel,Buchhändler/in,rue du Roule
